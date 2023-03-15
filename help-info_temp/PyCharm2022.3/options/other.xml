@@ -1,0 +1,67 @@
+<application>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;LayoutCode.optimizeImports&quot;: &quot;true&quot;,
+    &quot;LayoutCode.processChangedText&quot;: &quot;false&quot;,
+    &quot;LayoutCode.rearrangeEntries&quot;: &quot;true&quot;,
+    &quot;LayoutCode.rearrangeEntriesPython&quot;: &quot;false&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V2&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V3&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V4&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V5&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V6&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V7&quot;: &quot;true&quot;,
+    &quot;PyCharm.InitialConfiguration.V8&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;PY-223.8836.34-668c66699b78039482e931563cf909556bfd7006eb0f45018c69f59f7ff6d9bd&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;PY-223.8836.34&quot;,
+    &quot;evlsprt3.223&quot;: &quot;24&quot;,
+    &quot;experimentalFeature.terminal.shell.command.handling&quot;: &quot;false&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;10&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;2&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;PY-223.8836.34&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/admzimmermann/Entwicklung/py-brocade&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Light&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;PY-223.8836.34&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.8.4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/admzimmermann/.py_borcade/py_brocade.ini&quot;,
+      &quot;/home/admzimmermann/Entwicklung/py-brocade&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SearchEverywhere": 1678613383679,
+    "GoToDeclaration": 1678866960529,
+    "CommentCode": 1678768311876,
+    "FindReplaceToggle": 1678337876259
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="py-brocade-history" project-path="$USER_HOME$/Entwicklung/py-brocade" last-access-time="1678866952264" />
+    </command-history-files>
+  </component>
+</application>

@@ -1,0 +1,36 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pythonProject" projectWorkspaceId="2MlUiO074F8bnZ1mx7MXeiAm6x9">
+              <option name="activationTimestamp" value="1678341788045" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-223.8617.48" />
+              <option name="buildTimestamp" value="1674567636240" />
+              <frame x="229" y="20" width="1400" height="1155" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1678341788144" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Entwicklung/py-brocade">
+          <value>
+            <RecentProjectMetaInfo frameTitle="py-brocade – actions/__init__.py" opened="true" projectWorkspaceId="2MlUlQVzMjUUCYqwBClDR5nbbEV">
+              <option name="activationTimestamp" value="1678868630974" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-223.8836.34" />
+              <option name="buildTimestamp" value="1678209888342" />
+              <frame x="1913" y="19" width="1400" height="1319" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1678866954344" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Entwicklung/py-brocade" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Entwicklung" />
+  </component>
+</application>
