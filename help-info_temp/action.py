@@ -65,7 +65,7 @@ def command(cmd=None, outputfile=None):
 
 
 if __name__ == "__main__":
-    outfile = open('../../aliases', 'w')
+    outfile = open('aliases', 'w')
     if command(outputfile=outfile) == 0:
         print(_alias_db)
         for wwn, name in _alias_db:
