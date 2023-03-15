@@ -1,0 +1,4 @@
+py_brocade.actions <cmd> --switch xxx --format ...
+
+[ py_brocade.actions | py_brocade.actions help]
+    Aufruf der Hilfeinformationen
